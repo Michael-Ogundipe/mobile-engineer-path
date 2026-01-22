@@ -11,6 +11,6 @@ It’s okay to feel confused or not know exactly what to do or in what order to 
 
 These days, the way I learn is by attempting a task. When I notice a knowledge gap, I grab my notebook or watch a YouTube tutorial to learn the concept.
 
-The tech job market is hard because it’s supposed to be hard. More often than not, the road will be rough. If you have a few minutes, I recommend reading Tai Solarin’s May Your Road Be Rough.
+The tech job market is hard because it’s supposed to be hard. More often than not, the road will be rough. If you have a few minutes, I recommend reading [Tai Solarin’s May Your Road Be Rough](https://megaiconmagazine.com/may-your-road-be-rough-by-tai-solarin/).
 
 Set realistic expectations: you’re most likely not going to land an entry-level job that pays a lot of money immediately. In fact, money shouldn’t be your main motivation at this stage. You should sincerely want to learn and push yourself.
